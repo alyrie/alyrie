@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @alyrie
-- 👀 I’m interested in making things work
-- 🌱 I’m currently taking the full stack developer course @ codecademy
-- 📫 How to reach me ... alyrie@yahoo.com
+# Hi, I’m Allison
 
-<!---
-alyrie/alyrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My background is in graphic design, digital strategy, and marketing operations. I’m interested in how thoughtful design and technology can make everyday work easier.
+
+I enjoy working on:
+- Web design and user experience
+- Workflow automation
+- Practical tools that simplify complicated processes
+- Personal projects that help me explore new ideas
+
+I’m continuing to develop my skills in JavaScript, TypeScript, React, and modern web development.
+
+My approach is simple: stay curious, understand the problem, and make the next step clearer.
