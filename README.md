@@ -69,6 +69,6 @@ Then I build from there.
 
 ## Elsewhere
 
-**Portfolio:** allisonhall.info
+**Portfolio:** portfolio.allisonhall.info
 
 I’m interested in business systems, internal tools, AI implementation, automation, digital operations, and product-focused roles where building a better way to work is the job.
