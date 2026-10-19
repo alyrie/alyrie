@@ -13,6 +13,17 @@ My background spans digital strategy, operations, web, automation, and product d
 
 ## Selected work
 
+### [Field Sales Operations Platform](case-studies/field-sales-operations-platform.md)
+**Mobile-first CRM and field operations system**
+
+A custom field-sales platform built around the real work reps do throughout the day: customer follow-up, mobile document workflows, contact sharing, job tracking, and compensation visibility.
+
+I designed and built the product across workflow architecture, mobile UX, data modeling, authentication, document generation, file handling, email routing, and deployment.
+
+**Stack:** Next.js · TypeScript · Supabase · Vercel · Resend
+
+🔒 Production source, customer data, schemas, and infrastructure details are private and proprietary.
+
 ### [Helping Handled](case-studies/helping-handled.md)
 **Recipient-led coordination platform**
 
