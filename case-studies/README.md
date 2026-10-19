@@ -6,6 +6,7 @@ These are intentionally **case studies, not source-code releases**. Commercial a
 
 ## Case studies
 
+- [Field Sales Operations Platform](field-sales-operations-platform.md) — mobile-first CRM and field operations system
 - [Helping Handled](helping-handled.md) — recipient-led coordination platform
 - [AI Business Operating System](ai-business-operating-system.md) — multi-agent workflow architecture
 - [Reflection Companion](reflection-companion.md) — private structured reflection and knowledge system
